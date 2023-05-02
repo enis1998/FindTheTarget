@@ -1,6 +1,6 @@
 # FindTheTarget
 Proje Kapsamı
-Bu proje, 1000x1000 boyutunda bir alan üzerinde iki adet sensör ve bir adet hedef konumlandıran bir kestirimle hedefi bulma uygulamasıdır. Sensörlerden alınan verileri işleyen merkezi birim, hedefin koordinat sistemine göre konumlandığı noktayı hesaplar ve görselleştirir.
+Bu proje, 1000x1000 boyutunda bir alan üzerinde iki adet sensör ve bir adet hedef konumlandıran bir kestirimle hedefi bulma uygulamasıdır. Sensörlerden alınan verileri işleyen merkezi birim, hedefin koordinat sistemine göre konumlandığı noktayı hesaplar.
 
 Uygulama, Java programlama dili kullanılarak geliştirilmiştir. Veri akışını sağlamak için Apache Kafka mesajlaşma sistemi kullanılmıştır. Veritabanı olarak ise herhangi bir veritabanı kullanılmamıştır.
 
